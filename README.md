@@ -1,6 +1,6 @@
 # Soundness Testnet Registration
 ## Link:
-## https://soundness.xyz/
+## https://soundness.xyz/werwewerwrw
 ## ➖ Submit your email
 
 # Step 1: Generate Your Key here
